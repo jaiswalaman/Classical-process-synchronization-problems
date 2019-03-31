@@ -1,7 +1,7 @@
 # Classical-process-synchronization-problems
 CSN-232 Assignment-7
 Commands for executing the programs:-
-1.gcc filename.c -pthreads
+1.gcc filename.c -pthread
 2. ./a.out
 All the programs can be executed in two ways by using the in built semaphore library present in c language or use an custom semaphore header file created in.
 Both files can be included by using following code:-
